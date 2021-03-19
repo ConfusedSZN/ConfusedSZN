@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ConfusedSZN
 - 👀 I’m interested in: Web Automation
 - 🌱 I’m currently learning: Java, C++, PHP and JavaScript
-- 📫 How to reach me: @ConfusedSZN on Twitter
+- 📫 How to reach me: @ConfusedSZN on Twitter - ALAN#0001 on Discord
 
 <!---
 ConfusedSZN/ConfusedSZN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
