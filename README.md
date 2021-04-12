@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ConfusedSZN
 - 👀 I’m interested in: Web Automation
-- 🌱 I’m currently learning: Java, C++, PHP and JavaScript
+- 🌱 I’m currently learning: Java, C++, C, PHP, JavaScript and x86 Assembly
 - 📫 How to reach me: @ConfusedSZN on Twitter - ALAN#0001 on Discord
 
 <!---
